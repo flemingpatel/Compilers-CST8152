@@ -1,0 +1,21 @@
+# Compilers-CST8152
+
+/***********************************************************
+  Here you will find implementation of compiler components.
+***********************************************************/
+
+# Assignemnt 1: Buffer
+ 
+# Assignemnt 2: Scanner
+==========
+In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
+ 
+# Assignment 3: Symbol Table
+ 
+# Assignment 4: Parser
+==========
+In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
+ 
+# Author
+==========
+Fleming Patel

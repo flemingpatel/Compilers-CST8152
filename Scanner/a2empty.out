@@ -1,0 +1,16 @@
+Reading file a2empty.pls ....Please wait
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  1
+The current size of the buffer is:  0
+
+Printing buffer contents:
+
+The buffer is empty.
+
+Scanning source file...
+
+Token		Attribute
+----------------------------------
+SEOF_T
