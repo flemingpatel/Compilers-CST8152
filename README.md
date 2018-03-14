@@ -35,22 +35,20 @@ programming language into executable code.
   - build code for modification and re-use applying modularity and defensive rogramming.
   - select and use appropriate tools and technology for building a project.
 
-/***********************************************************
 # Here you will find implementation of compiler components.
-***********************************************************/
 
- Assignemnt 1: Buffer
+  Assignemnt 1: Buffer
  
- Assignemnt 2: Scanner
-==========
+  Assignemnt 2: Scanner
+ 
 In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
  
- Assignment 3: Symbol Table
+  Assignment 3: Symbol Table
  
- Assignment 4: Parser
-==========
+  Assignment 4: Parser
+
 In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
- 
- Author
-==========
+
+  Author
+
 Fleming Patel
