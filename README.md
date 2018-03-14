@@ -3,7 +3,7 @@
 Introduction During the course of a semester at Algonquin college in the CST8152 Compilers class, I built the front end of a compiler to process a custom language designed by our professor, Svillen Ranev. This was a project in which I learnt about and applied knowledge associated with:
 
 1.) Describe the nature of a programming language and the process of converting a program written in a highlevel
-programming language into executable code.
+    programming language into executable code.
   - identify the theoretical and practical differences between existing programming paradigms and
     programming languages;
   - describe the function and the operation of editors, preprocessors, code generators, code optimizers,
