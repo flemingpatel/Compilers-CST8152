@@ -45,13 +45,13 @@ Introduction During the course of a semester at Algonquin college in the CST8152
  
   Assignemnt 2: Scanner
  
-In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
+##In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
  
   Assignment 3: Symbol Table
  
   Assignment 4: Parser
 
-In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
+##In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
 
   Author
 
