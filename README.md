@@ -1,4 +1,4 @@
-##PLATYPUS Compiler Project.
+# PLATYPUS Compiler Project.
 
 Introduction During the course of a semester at Algonquin college in the CST8152 Compilers class, I built the front end of a compiler to process a custom language designed by our professor, Svillen Ranev. This was a project in which I learnt about and applied knowledge associated with:
 
@@ -36,21 +36,21 @@ programming language into executable code.
   - select and use appropriate tools and technology for building a project.
 
 /***********************************************************
-##Here you will find implementation of compiler components.
+# Here you will find implementation of compiler components.
 ***********************************************************/
 
-# Assignemnt 1: Buffer
+ Assignemnt 1: Buffer
  
-# Assignemnt 2: Scanner
+ Assignemnt 2: Scanner
 ==========
 In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
  
-# Assignment 3: Symbol Table
+ Assignment 3: Symbol Table
  
-# Assignment 4: Parser
+ Assignment 4: Parser
 ==========
 In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
  
-# Author
+ Author
 ==========
 Fleming Patel
