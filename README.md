@@ -11,14 +11,17 @@ programming language into executable code.
   - describe the function and the operation of the building blocks of Integrated Development Environments;
   - explain the how and when different compiler outputs and run-time environments are used. Detail the
     difference between compiler and interpreter.
+    
 2.) Explain the process of compiling a computer program and the parts of a compiler.
   - identify the main building blocks of a compiler and an interpreter;
   - explain the role of the lexical analyzer (scanner), syntax analyzer (parser), code optimizer, and code
     generator.
+    
 3.) Differentiate the process of and the tools for lexical analysis, parsing, error handling, and interpretation.
   - explain the main characteristics of a programming language and how it relates to a natural language;
   - identify and describe the different techniques and tools used for lexical, syntactical, and semantic analysis
     of a program written in specific language.
+    
 4.) Understand regular expressions and basic programming and scripting language grammars.
   - identify the role of the descriptive notations like regular expressions and grammars to describe a
     programming or scripting language;
@@ -26,7 +29,8 @@ programming language into executable code.
   - use BNF grammar to define the syntactical part of a programming language;
   - implement a lexical analyzer (scanner) based on regular expressions;
   - use syntax-directed translation approach to implement a syntax analyzer (parser) based on a grammar
-    description..
+    description.
+    
 5.) Build and manage a mid-size programming project.
   - use the C programming language to write a complex program implementing the front end of a compiler;
   - use different compiler platforms to write effective, compact androbust multi-file programs;
