@@ -41,7 +41,16 @@ Introduction During the course of a semester at Algonquin college in the CST8152
 
 # Here you will find implementation of compiler components.
 
-  Assignemnt 1: Buffer
+##Assignemnt 1: Buffer
+    I was tasked to implement a buffer that can operate in three different modes: a “fixedsize”
+    buffer, an “additive self-incrementing” buffer, and a “multiplicative self-incrementing” buffer.
+    The buffer implementation was based on two associated data structures: a Buffer Descriptor (or
+    Buffer Handle) and an array of characters (the actual character buffer). Both structures were
+    created “on demand” at run time and also they were allocated dynamically. The Buffer
+    Descriptor or Buffer Handle - the names suggest the purpose of this buffer control data structure -
+    contains all the necessary information about the array of characters: a pointer to the beginning of
+    the character array location in memory, the current size, the next character entry position, the
+    increment factor, the operational mode and some additional parameters.
  
   Assignemnt 2: Scanner
  
