@@ -51,8 +51,26 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     contains all the necessary information about the array of characters: a pointer to the beginning of
     the character array location in memory, the current size, the next character entry position, the
     increment factor, the operational mode and some additional parameters.
+    
+##Implemented and compilation source files are:
+    - buffer.c
+    - buffer.h
+    - platy_st.c
  
-  Assignemnt 2: Scanner
+ ##Assignemnt 2: Scanner
+    I was tasked to build Lexical Analyzer (Scanner). With the help of buffer utility functions, the scanner produces a stream
+    of token from streams of character which already loaded in buffer and produced an output file with specific print statement.
+    I build a finite state machine for recognizing only identifiers, keywords and literals. The transitions from state
+    to state being governed by the Transition table which is in table.h header file.
+    
+##Implemented and compilation source files are:
+    - buffer.c
+    - buffer.h
+    - scanner.c
+    - table.h
+    - token.h
+    - platy_st.c
+      
  
 ##In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
  
