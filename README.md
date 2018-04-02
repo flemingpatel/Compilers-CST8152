@@ -57,11 +57,12 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     - buffer.h
     - platy_st.c
  
- ### Assignemnt 2: Scanner
-    I was tasked to build Lexical Analyzer (Scanner). With the help of buffer utility functions, the scanner produces a stream
-    of token from streams of character which already loaded in buffer and produced an output file with specific print statement.
-    I build a finite state machine for recognizing only identifiers, keywords and literals. The transitions from state
-    to state being governed by the Transition table which is in table.h header file.
+### Assignemnt 2: Scanner
+    I was tasked to build Lexical Analyzer (Scanner). With the help of buffer utility functions, 
+    the scanner produces a stream of token from streams of character which already loaded in buffer and 
+    produced an output file with specific print statement. I build a finite state machine for recognizing 
+    only identifiers, keywords and literals. The transitions from state to state being governed by the 
+    Transition table which is in table.h header file.
     
 ### Implemented and compilation source files are:
     - buffer.c
