@@ -41,7 +41,7 @@ Introduction During the course of a semester at Algonquin college in the CST8152
 
 # Here you will find implementation of compiler components.
 
-##Assignemnt 1: Buffer
+### Assignemnt 1: Buffer
     I was tasked to implement a buffer that can operate in three different modes: a “fixedsize”
     buffer, an “additive self-incrementing” buffer, and a “multiplicative self-incrementing” buffer.
     The buffer implementation was based on two associated data structures: a Buffer Descriptor (or
@@ -52,18 +52,18 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     the character array location in memory, the current size, the next character entry position, the
     increment factor, the operational mode and some additional parameters.
     
-##Implemented and compilation source files are:
+### Implemented and compilation source files are:
     - buffer.c
     - buffer.h
     - platy_st.c
  
- ##Assignemnt 2: Scanner
+ ### Assignemnt 2: Scanner
     I was tasked to build Lexical Analyzer (Scanner). With the help of buffer utility functions, the scanner produces a stream
     of token from streams of character which already loaded in buffer and produced an output file with specific print statement.
     I build a finite state machine for recognizing only identifiers, keywords and literals. The transitions from state
     to state being governed by the Transition table which is in table.h header file.
     
-##Implemented and compilation source files are:
+### Implemented and compilation source files are:
     - buffer.c
     - buffer.h
     - scanner.c
