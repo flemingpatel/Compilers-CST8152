@@ -39,7 +39,7 @@ Introduction During the course of a semester at Algonquin college in the CST8152
   - build code for modification and re-use applying modularity and defensive rogramming.
   - select and use appropriate tools and technology for building a project.
 
-# Here you will find implementation of compiler components.
+## Here you will find implementation of compiler components.
 
 ### Assignemnt 1: Buffer
     I was tasked to implement a buffer that can operate in three different modes: a “fixedsize”
