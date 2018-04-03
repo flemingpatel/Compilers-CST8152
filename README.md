@@ -80,6 +80,6 @@ Introduction During the course of a semester at Algonquin college in the CST8152
 
     In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
 
-###        Author
+### Author
 
 ### Fleming Patel
