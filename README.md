@@ -64,6 +64,8 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     only identifiers, keywords and literals. The transitions from state to state being governed by the 
     Transition table which is in table.h header file.
     
+    In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
+    
 ### Implemented and compilation source files are:
     - buffer.c
     - buffer.h
@@ -71,16 +73,13 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     - table.h
     - token.h
     - platy_st.c
-      
  
-##In Scanner you will find PLATYPUS Language Specification and Informal Language Specification
+### Assignment 3: Symbol Table
  
-  Assignment 3: Symbol Table
- 
-  Assignment 4: Parser
+### Assignment 4: Parser
 
-##In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
+    In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
 
-  Author
+###     Author
 
-Fleming Patel
+### Fleming Patel
