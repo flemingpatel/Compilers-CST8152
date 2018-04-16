@@ -95,7 +95,29 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     - platy_tt.c
     
 ### Assignment 4: Parser
-
+    I was tasked to write a Recursive Descent Predictive Parser (RDPP) for the PLATYPUS language.
+    My First task was to modify syntactical part of the PLATYPUS Grammar(The Platypus Syntactic Specification)
+    In order to build RDPP. The grammer provided was the LR grammer which is suitable for suitable for LR parsing.
+    Hence, I eliminate the left recursion and apply left factoring to convert LR grammer to LL grammer which is 
+    suitable for Recursive Descent Predictive Parser.
+    
+    Once the grammer was modified appropriately, I convert the production rules into function which are resides
+    in parser.c file. The function allowed parser to move from token to token and it identifies the syntax of the
+    source code. The tokens entered the parser structure after experiencing the beginning token 
+    (the keyword PLATYPUS), and it recursively handled them until experiencing the end-of-file token. 
+    
+### Implemented and compilation source files are:
+    - buffer.c
+    - buffer.h
+    - scanner.c
+    - table.h
+    - token.h
+    - stable.c
+    - stable.h
+    - parser.c
+    - parser.h
+    - platy_tt.c
+    
     In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
 
 ### Author
