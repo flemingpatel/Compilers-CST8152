@@ -116,7 +116,7 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     - stable.h
     - parser.c
     - parser.h
-    - platy_tt.c
+    - platy.c
     
     In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
 
