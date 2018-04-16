@@ -55,7 +55,7 @@ Introduction During the course of a semester at Algonquin college in the CST8152
 ### Implemented and compilation source files are:
     - buffer.c
     - buffer.h
-    - platy_st.c
+    - platy_bt.c
  
 ### Assignemnt 2: Scanner
     I was tasked to build Lexical Analyzer (Scanner). With the help of buffer utility functions, 
