@@ -75,7 +75,25 @@ Introduction During the course of a semester at Algonquin college in the CST8152
     - platy_st.c
  
 ### Assignment 3: Symbol Table
- 
+    I was tasked to create a Symbol table component in PLATYPUS compiler. The Symbol table component 
+    consists of two parts: (1) A Symbol Table Manager (STM) and (2) A Symbol Table Database (STDB).
+    The STM provides utilities (service functions) for manipulation of the STBD. The STDB is a repository 
+    for VID attributes. Each variable identifier is associated with one record in the database. 
+    Five VID attributes will be defined in the symbol table: variable name, type, initial value, line number,
+    and one reserved attribute. To capture this information scanner code was slightly modified. 
+    When scanner identified a token and if it would be AVID or SVID then scanner stores in the symbol table 
+    only four of those attributes for that VID.
+    
+### Implemented and compilation source files are:
+    - buffer.c
+    - buffer.h
+    - scanner.c
+    - table.h
+    - token.h
+    - stable.c
+    - stable.h
+    - platy_tt.c
+    
 ### Assignment 4: Parser
 
     In Parser you will find PLATYPUS Language grammar transformed into Recursive Descent Predictive Parsing (LL grammar).
